@@ -2,7 +2,7 @@
 
 Este ejercicio se llevó a cabo optimizando la página creada en el ejercicio práctico 1, haciendo uso del ReactDOM, PropTypes y Profiler.
 
-[GITHUB: https://github.com/LeenahJz/EJERCICIOPRAC1.git]
+[GITHUB: https://github.com/LeenahJz/EJERCICIOPRAC2.git]
 
 Estructura
 
